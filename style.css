@@ -1,6 +1,6 @@
 body{
     font-family: Georgia, serif;
-    font-size:24px;
+    font-size:20px;
     line-height:1.5;
     font-weight:300;
     background-color: #E8E8E8;
@@ -18,10 +18,12 @@ body{
     color:  #086AFA;
     font-family: 'Comic Sans MS', cursive;
     font-size: 20px;
-    padding-bottom: 0.2em;
-    margin-bottom: 0em;
+    padding-bottom: 0.1em;
+    margin-bottom: -0.2em;
 }
-
+.table{
+    font-size: 18px;
+}
 /* the second row */
 .tcolor{
     color: #086AFA;
