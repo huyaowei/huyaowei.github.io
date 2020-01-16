@@ -16,7 +16,8 @@ body{
 /* the first row */
 #toptitle{
     color:  #086AFA;
-    font-family: 'Comic Sans MS', cursive;
+    /*font-family: 'Comic Sans MS', cursive;*/
+    font-family: Times;
     font-size: 20px;
     padding-bottom: 0.1em;
     margin-bottom: -0.2em;
