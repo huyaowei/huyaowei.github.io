@@ -111,9 +111,9 @@ li{
 }
 
 .name h1{
-    font-size: 180%;
+    font-size: 160%;
     color: black;
-    font-family: serif;
+    /*font-family: serif;*/
     font-weight: bold;
 }
 
