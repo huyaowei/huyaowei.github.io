@@ -33,13 +33,14 @@ body{
 }
 
 .subheader{
-    text-align: center;
     margin-top: 15px;
     margin-bottom: 15px;
 }
+
 .subheader img{
-    height: 10px;
-    width: 50px;
+    margin-left: 3px;
+    margin-right: 10px;
+    margin-bottom: 3px;
 }
 
 a{
