@@ -1,0 +1,7 @@
+@article{hu2020fair,
+  title={Fair Multiple Decision Making Through Soft Interventions},
+  author={Hu, Yaowei and Wu, Yongkai and Zhang, Lu and Wu, Xintao},
+  journal={Advances in Neural Information Processing Systems},
+  volume={33},
+  year={2020}
+}

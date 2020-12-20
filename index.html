@@ -5,70 +5,69 @@
     <link rel="stylesheet" type="text/css", href="index.css">
 </head> 
 <body>
-
 <div class="content">
 
-<!-- navigation -->
-<div align="center">
-    <span class="navigation">
-        <img src="img/square.png" alt="*">
-        <a href="#home"> Home </a>
-        <img src="img/square.png" alt="*">
-        <a href="#biography"> Biography </a>
-        <img src="img/square.png" alt="*">
-        <a href="#publications"> Publications </a>
-    </span>
-</div>
-<p>&nbsp;</p>
-
-<!-- personal information -->
 <table class="person", border="0">
     <tr>
         <td><img id="photo" src="./img/yw.jpg"></td>
         <td id="info">
             <!-- Name -->
-            <div class="name">
-                <h1 name="home"> Yaowei Hu </h1>
+            <div id="name">
+                Yaowei Hu <img id="han-name" src="./img/name.png" >
             </div>
-
-            Ph.D. Student <br>
+            Ph.D. Candidate <br>
             CSCE, University of Arkansas, USA <br>
             Email: yaoweihu@uark.edu <br>
-            <a href="https://github.com/yaoweihu"><img class="link_img" src="./img/github.jpg" ></a>
-            <!--<a href="./papers.html"><img class="link_img" src="./img/paper.png" ></a>-->
+            <a href="https://github.com/yaoweihu"><img class="link_img" src="./img/github.png" ></a>
+            <a href="https://scholar.google.com/citations?user=ltiQ9dEAAAAJ&hl=en"><img class="link_img" src="./img/scholar.png" ></a>
         </td>
     </tr>
 </table>
 
-<!-- biography -->
 <p class="header">
-    <a name="biography">Biography</a>
+    <text name="biography">Biography</text>
 </p>
+<div id="bio">
 <p>
-    I am a second-year Ph.D student in the Department of Computer Science and Computer Engineering at University of Arkansas, supervised by <a href="http://www.csce.uark.edu/~lz006/">Prof. Lu Zhang</a>. Previously, I received a MSc and a BSc in computer science at Sichuan University, China.
+    I am a second-year Ph.D candidate in the Department of CSCE at University of Arkansas, advised by <a href="http://www.csce.uark.edu/~lz006/">Prof. Lu Zhang</a>. </br>
+    Previously, I received a MSc and a BSc in computer science at Sichuan University, China.
     <br><br>
     My research areas include: causal inference, fairness-aware machine learning.
 </p>
+<div>
 
-<!-- publications -->
 <p class="header">
-    <a name="publications">Publications</a>
+    <text name="publications">Publications</text>
 </p>
-<ul>
+<div class="paper">
+    <img id="img" src="./paper/AAAI2021/image.png" >
+    <div id="info">
+        <a href="">
+            <b>A Generative Adversarial Framework for Bounding Confounded Causal Effectss</b>
+        </a>
+        <br>Yaowei Hu, Yongkai Wu, Lu Zhang, Xintao Wu
+        <br>AAAI, Virtual, 2021 <br> 
+        <a href="">Supplemental</a> | 
+        <a href="">Poster</a> |
+        <a href="https://github.com/yaoweihu/Bound-Confounded-Causal-Effects">Code</a> |
+        <a href="">BibTex</a>
+    </div>
+</div>
+<div class="paper">
+    <img id="img" src="./paper/neurIPS2020/image.png" >
+    <div id="info">
+        <a href="https://papers.nips.cc/paper/2020/file/d0921d442ee91b896ad95059d13df618-Paper.pdf">
+            <b>Fair Multiple Decision Making Through Soft Interventions</b>
+        </a>
+        <br>Yaowei Hu, Yongkai Wu, Lu Zhang, Xintao Wu
+        <br>NeurIPS, Virtual, 2020 <br> 
+        <a href="https://papers.nips.cc/paper/2020/file/d0921d442ee91b896ad95059d13df618-Supplemental.pdf">Supplemental</a> | 
+        <a href="./paper/neurIPS2020/poster.pdf">Poster</a> |
+        <a href="https://github.com/yaoweihu/Fair-Multiple-Decision-Making">Code</a> |
+        <a href="./paper/neurIPS2020/BibTex.txt">BibTex</a>
+    </div>
+</div>
 
-<li>
-<b><a href="" target="_blank">A Generative Adversarial Framework for Bounding Confounded Causal Effects</a></b><br>
-Yaowei Hu, Yongkai Wu, Lu Zhang, Xintao Wu<br>
-<i>The Thirty-Fifth Conference on Artificial Intelligenc (AAAI), Virtual, Feburary 2021. </br>
-</li>
-</br>
-<li>
-<b><a href="https://papers.nips.cc/paper/2020/hash/d0921d442ee91b896ad95059d13df618-Abstract.html" target="_blank">Fair Multiple Decision Making Through Soft Interventions</a></b><br>
-Yaowei Hu, Yongkai Wu, Lu Zhang, Xintao Wu<br>
-<i>Proceedings of the 34th Conference on Neural Information Processing Systems (NeurIPS), Virtual, December 2020. </br>
-</li>
- 
-</ul>
 
 </div>
 </body>
