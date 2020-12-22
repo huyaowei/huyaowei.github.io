@@ -50,7 +50,7 @@ body{
     height: 40px;
     width: 40px;
     margin-top: 20px;
-    margin-right: 8px;
+    margin-right: 6px;
 }
 
 .header{
@@ -59,7 +59,7 @@ body{
     padding-bottom: 5px;
     padding-top: 20px;
     margin-bottom: 5px;
-    font: 13px sans, sans-serif;
+    font: 14px sans, sans-serif;
     text-transform: uppercase;
     letter-spacing: 5px;
     font-weight: bold;
