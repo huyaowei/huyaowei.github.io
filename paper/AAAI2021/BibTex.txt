@@ -1,0 +1,5 @@
+@article{hu2021generative,
+  title={A Generative Adversarial Framework for Bounding Confounded Causal Effects},
+  author={Hu, Yaowei and Wu, Yongkai and Zhang, Lu and Wu, Xintao},
+  year={2021}
+}
