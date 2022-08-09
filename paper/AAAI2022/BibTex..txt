@@ -1,0 +1,17 @@
+@inproceedings{DBLP:conf/aaai/Hu022,
+  author    = {Yaowei Hu and
+               Lu Zhang},
+  title     = {Achieving Long-Term Fairness in Sequential Decision Making},
+  booktitle = {Thirty-Sixth {AAAI} Conference on Artificial Intelligence, {AAAI}
+               2022, Thirty-Fourth Conference on Innovative Applications of Artificial
+               Intelligence, {IAAI} 2022, The Twelveth Symposium on Educational Advances
+               in Artificial Intelligence, {EAAI} 2022 Virtual Event, February 22
+               - March 1, 2022},
+  pages     = {9549--9557},
+  publisher = {{AAAI} Press},
+  year      = {2022},
+  url       = {https://ojs.aaai.org/index.php/AAAI/article/view/21188},
+  timestamp = {Tue, 12 Jul 2022 14:14:21 +0200},
+  biburl    = {https://dblp.org/rec/conf/aaai/Hu022.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
